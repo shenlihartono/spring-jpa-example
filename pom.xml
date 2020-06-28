@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>xie.stanley.demoapp</groupId>
 	<artifactId>spring-jpa-example</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>spring-jpa-example</name>
 	<description>Demo project for Spring JPA</description>
 
