@@ -1,4 +1,4 @@
-package xie.stanley.demoapp.springmysql.model;
+package xie.stanley.demoapp.springjpa.model;
 
 import lombok.Data;
 

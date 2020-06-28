@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>xie.stanley.demoapp</groupId>
-	<artifactId>spring-jpa-mysql</artifactId>
+	<artifactId>spring-jpa-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-jpa-mysql</name>
-	<description>Demo project for Spring JPA MySQL</description>
+	<name>spring-jpa-example</name>
+	<description>Demo project for Spring JPA</description>
 
 	<properties>
 		<java.version>1.8</java.version>

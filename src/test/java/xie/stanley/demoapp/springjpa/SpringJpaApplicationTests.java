@@ -1,10 +1,10 @@
-package xie.stanley.demoapp.springmysql;
+package xie.stanley.demoapp.springjpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringJpaMysqlApplicationTests {
+class SpringJpaApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,11 +1,11 @@
-package xie.stanley.demoapp.springmysql.controller;
+package xie.stanley.demoapp.springjpa.controller;
 
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
-import xie.stanley.demoapp.springmysql.model.World;
-import xie.stanley.demoapp.springmysql.repository.WorldRepository;
+import xie.stanley.demoapp.springjpa.model.World;
+import xie.stanley.demoapp.springjpa.repository.WorldRepository;
 
 import java.util.Optional;
 
