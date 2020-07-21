@@ -1,0 +1,1 @@
+INSERT INTO WORLD (id, name) VALUES (1, 'dunia');
