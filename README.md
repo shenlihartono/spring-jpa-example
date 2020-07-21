@@ -20,3 +20,9 @@ Try access the h2 console from browser:
 `http://localhost:8001/h2`
 
 Please set the value of `JDBC URL` according to the value in h2 properties file.
+
+Note: 
+
+when running using IDE, please set the VM option in Run Configuration:
+ 
+```-Dspring.profiles.active=profile```
