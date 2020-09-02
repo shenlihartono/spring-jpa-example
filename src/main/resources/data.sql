@@ -1,2 +1,2 @@
-INSERT INTO WORLD (id, name) VALUES (1, 'dunia');
-INSERT INTO WORLD (id, name) VALUES (10, 'dunia baru');
+INSERT INTO WORLD (name) VALUES ('dunia');
+INSERT INTO WORLD (name) VALUES ('dunia baru');
